@@ -1,0 +1,159 @@
+
+body{
+	
+}
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#30363d;
+	--color-footer:#898989;
+}
+
+header{
+	background-color: #fff;
+}
+
+footer{
+	background-color: var(--fondo-footer);
+	color: var(--color-footer);
+	padding: 20px 20px;
+	text-align: center;
+	font-size: 13px;
+}
+
+#Meetings h2{
+	color: white;
+	font-size: 20px;
+	font-weight: 500;
+	margin-top: 20px;
+}
+
+#Meetings p{
+	font-weight: 300;
+	color: #c3c3c3;
+	font-size: 12px;
+}
+
+#Meetings i{
+	font-size: 40px;
+	line-height: 70px;
+	text-align: center;
+	color: #c3c3c3;
+}
+
+
+#Meetings{
+	background-color: #282d33;
+	padding-top: 100px;
+	padding-right: 100px;
+	padding-left: 100px;
+	padding-bottom: 150px;
+}
+
+#Meetings h3{
+	color: white;
+	font-size: 14px;
+}
+
+#hero-slides h1{	
+	color: #FFFFFF;
+	font-size: 90px;
+}
+
+#hero-slides h4{
+	color: #FFFFFF;
+	font-size: 40px;
+	margin: 20px 20px;	
+}
+
+
+#Conferences{
+	text-align: center;
+ padding: 50px;
+}
+
+#Conferences h2{ 
+	padding-top: 20px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	color: #1a1a1a;
+	text-transform: uppercase;
+}
+
+#Conferences h3{
+	
+	font-size: 16px;
+	color: #898989;
+	text-transform: uppercase;
+	font-weight: 600;
+	letter-spacing: 1px;
+	margin-bottom: 35px;
+}
+
+#Conferences h5{ 
+	padding-top: 20px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	color: #1a1a1a;
+	text-transform: uppercase;
+}
+
+#speaker p{
+	text-align: center;
+	color:  #898989;
+	padding-bottom: 55px;
+}
+
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #A79F9F;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+#speaker h6{
+	text-align: left;
+	color: #282d33;
+	padding-top: 20px;
+}
+
+#speaker h4{
+	text-align: center;
+	color: #282d33;
+	padding: 20px;
+	font-size: 40px;
+}
+	
+
+#speaker{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+
+#Sponsors{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+
+#Sponsors p{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#Sponsors img{
+	padding-top: 40px;
+	
+}
+
+#Sponsors h4{
+	text-align: center;
+	color: #282d33;
+	padding: 20px;
+	font-size: 40px;
+}
